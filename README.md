@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Basanth Kumar B M</h1>
-<h3 align="center">Aspiring Cybersecurity Analyst | SOC & Threat Detection | Python & Cloud Security</h3>
+<h3 align="center">Aspiring Cybersecurity Analyst | SOC & Threat Detection | Python & Cloud Security | Hands-on Projects & Labs.</h3>
 
 - 🌱 I’m currently learning **SOC operations, cloud security (Azure & AWS), Python for cybersecurity, and hands-on labs on platforms like TryHackMe & Hack The Box.**
 
