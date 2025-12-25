@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm Basanth Kumar B M</h1>
 <h3 align="center">Aspiring Cybersecurity Analyst | SOC & Threat Detection | Python & Cloud Security from India</h3>
 
-- 🌱 I’m currently learning **SOC operations, cloud security (Azure & AWS), Python for cybersecurity, and hands-on labs on platforms like TryHackMe & Hack The Box.**
-
-- 👯 I’m looking to collaborate on **cybersecurity projects, SOC automation, Python security tools, and cloud security labs.**
-
-- 🤝 I’m looking for help with **gaining deeper expertise in SOC operations, cloud security, and advanced threat detection techniques.**
-
 - 👨‍💻 All of my projects are available at [https://github.com/basanthkumarbm?tab=repositories](https://github.com/basanthkumarbm?tab=repositories)
 
 - 💬 Ask me about **cybersecurity fundamentals, SOC operations, threat detection, Python scripting, and cloud security basics.**
