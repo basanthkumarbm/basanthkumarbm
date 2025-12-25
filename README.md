@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Basanth Kumar B M</h1>
-<h3 align="center">Aspiring Cybersecurity Analyst | SOC & Threat Detection | Python & Cloud Security from India</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/basanthkumarbm?tab=repositories](https://github.com/basanthkumarbm?tab=repositories)
 
