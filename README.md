@@ -2,8 +2,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/basanthkumarbm?tab=repositories](https://github.com/basanthkumarbm?tab=repositories)
 
-- 💬 Ask me about **cybersecurity fundamentals, SOC operations, threat detection, Python scripting, and cloud security basics.**
-
 - 📫 How to reach me **basanthbm.in@gmail.com**
 
 - ⚡ Fun fact **I enjoy turning cybersecurity challenges into learning opportunities.**
