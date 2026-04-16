@@ -7,8 +7,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/basanthkumarbm?tab=repositories](https://github.com/basanthkumarbm?tab=repositories)
 
-- 💬 Ask me about **AWS basics, Cloud projects, Linux, Git**
-
 - 📫 How to reach me **basanthbm.in@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
