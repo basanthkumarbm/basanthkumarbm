@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Basanth Kumar B M</h1>
-<h3 align="center">Cloud Engineer | AWS | Infrastructure Support</h3>
+<h3 align="center">IT Support | AWS | Infrastructure Support</h3>
 
 - 🔭 I’m currently working on [AWS Cloud Projects](https://github.com/basanthkumarbm?tab=repositories)
 
