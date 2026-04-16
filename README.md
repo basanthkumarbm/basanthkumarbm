@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [AWS Cloud Projects](https://github.com/basanthkumarbm?tab=repositories)
 
-- 🌱 I’m currently learning **Amazon Web Services (AWS), Linux Administration, Cloud Architecture Basics, Git & GitHub, DevOps Fundamentals**
+- 🌱 I’m currently learning **Amazon Web Services (AWS), Linux Administration, Cloud Architecture Basics**
 
 - 👯 I’m looking to collaborate on [Beginner-friendly AWS / Cloud projects](https://github.com/basanthkumarbm)
 
