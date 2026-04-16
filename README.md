@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **Amazon Web Services (AWS), Linux Administration, Cloud Architecture Basics**
 
-- 👯 I’m looking to collaborate on [Beginner-friendly AWS / Cloud projects](https://github.com/basanthkumarbm)
-
 - 👨‍💻 All of my projects are available at [https://github.com/basanthkumarbm?tab=repositories](https://github.com/basanthkumarbm?tab=repositories)
 
 - 💬 Ask me about **AWS basics, Cloud projects, Linux, Git**
